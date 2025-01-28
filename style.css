@@ -1,0 +1,21 @@
+/*
+ *Name: Thomas Elpers
+ *UnityID: taelpers
+ *Date: 11/10/21
+ *Assignment: webpages IA
+ *Description: about me webpage, independent assignment
+ */
+ 
+body {
+    background-color: #FEFFA7;
+}
+
+.table-border {
+    border: 1px solid #000000;
+}
+
+#photo-change {
+	border: 2px solid #00FF00;
+    max-width: 200px;
+	max-height: 250px;
+}

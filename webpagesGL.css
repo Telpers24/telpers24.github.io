@@ -1,0 +1,22 @@
+/*
+ *Name: Thomas Elpers
+ *UnityID: taelpers
+ *Date: 11/9/21
+ *Assignment: Webpages GL
+ *Description: Guided lab assigment. About me webpage
+ */
+ 
+p {
+    font-family:Times;
+	font-size:18px;
+	color:#FFFFFF;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width: 250px;
+	max-height: 300px;
+}
